@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/T0nyAbb/NapLearn">
-    <img src="https://github.com/T0nyAbb/NapLearn/assets/120809118/4c876ce2-b863-4d30-8ec9-2e984631fc6e" alt="Logo" width="150" height="150">
+    <img src="https://github.com/T0nyAbb/NapLearn/assets/120809118/4c876ce2-b863-4d30-8ec9-2e984631fc6e" alt="Logo" width="250" height="250">
   </a>
 </h1>
 
